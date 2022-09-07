@@ -61,7 +61,7 @@ Before choosing which model to base our bootstrap on, we compared the OSR-square
 Dec. 2021, https://www.officialdata.org/us/inflation/2018?amount=100)
 
 ## Appendix
-Figure 1
+###Figure 1
 
 ![Screen Shot 2022-09-07 at 1 08 50 PM](https://user-images.githubusercontent.com/25239743/188967866-72ade90a-54ad-43fb-8ef2-a8a5200b22ed.png)
 
