@@ -62,5 +62,74 @@ Dec. 2021, https://www.officialdata.org/us/inflation/2018?amount=100)
 
 ## Appendix
 Figure 1
+
 ![Screen Shot 2022-09-07 at 1 08 50 PM](https://user-images.githubusercontent.com/25239743/188967866-72ade90a-54ad-43fb-8ef2-a8a5200b22ed.png)
 
+Figure 2
+
+![Screen Shot 2022-09-07 at 1 10 39 PM](https://user-images.githubusercontent.com/25239743/188967993-8321ed7e-6a99-4e67-a6b5-b4badcde35cb.png)
+
+Figure 3
+
+![Screen Shot 2022-09-07 at 1 11 01 PM](https://user-images.githubusercontent.com/25239743/188968067-e81d1512-71ff-4e13-9ca5-3172e23b7678.png)
+
+
+Figure 4
+
+![Screen Shot 2022-09-07 at 1 11 20 PM](https://user-images.githubusercontent.com/25239743/188968118-6e3fbf42-cdaf-4975-a458-e2933ff71ac1.png)
+
+Figure 5
+
+![Screen Shot 2022-09-07 at 1 11 48 PM](https://user-images.githubusercontent.com/25239743/188968190-b8382f20-5408-49f0-8dfa-5785cc5cf06f.png)
+
+Figure 6 (Bar graph of important features in Bagging)
+
+![Screen Shot 2022-09-07 at 1 12 35 PM](https://user-images.githubusercontent.com/25239743/188968316-84620f4c-fa2f-4b4e-a2b8-42ce701898ab.png)
+
+Figure 7
+
+![Screen Shot 2022-09-07 at 1 12 55 PM](https://user-images.githubusercontent.com/25239743/188968418-d4926c1b-9582-4b46-8f01-71818316fe3a.png)
+
+Figure 8
+
+![Screen Shot 2022-09-07 at 1 13 30 PM](https://user-images.githubusercontent.com/25239743/188968495-0e01132d-6e18-4b40-a848-138ad0504d6d.png)
+
+Figure 9
+
+![Screen Shot 2022-09-07 at 1 13 48 PM](https://user-images.githubusercontent.com/25239743/188968568-6efbc084-3d71-4e1b-8d80-867c272f100d.png)
+
+Figure 10
+
+![Screen Shot 2022-09-07 at 1 14 06 PM](https://user-images.githubusercontent.com/25239743/188968623-5fc3d2d1-c906-4408-9c61-3bc3cefd4b6a.png)
+
+Figure 11
+
+![Screen Shot 2022-09-07 at 1 14 32 PM](https://user-images.githubusercontent.com/25239743/188968705-4e33f838-0faf-446b-ab82-2573f99db89e.png)
+
+Figure 12
+
+![Screen Shot 2022-09-07 at 1 14 51 PM](https://user-images.githubusercontent.com/25239743/188968754-49d1bb3b-a5b4-460b-8bc9-cc2e6b21bb05.png)
+
+Figure 13
+
+![Screen Shot 2022-09-07 at 1 15 06 PM](https://user-images.githubusercontent.com/25239743/188968794-7d9be46a-de09-42d6-9f42-df126ec0439c.png)
+
+Figure 14
+
+![Screen Shot 2022-09-07 at 1 15 24 PM](https://user-images.githubusercontent.com/25239743/188968841-d35bf613-19ab-4e05-9c21-b9337b7d2e00.png)
+
+Figure 15
+
+![Screen Shot 2022-09-07 at 1 15 44 PM](https://user-images.githubusercontent.com/25239743/188968907-79334c92-535a-4fbd-83ed-cd657a356627.png)
+
+Figure 16
+
+![Screen Shot 2022-09-07 at 1 16 03 PM](https://user-images.githubusercontent.com/25239743/188968952-386e6df9-acf3-45f0-b97e-3c55fb8aa83c.png)
+
+Figure 17
+
+![Screen Shot 2022-09-07 at 1 16 17 PM](https://user-images.githubusercontent.com/25239743/188969006-e13b0c4f-ec4c-4062-be3d-6087413207cf.png)
+
+Figure 18
+
+![Screen Shot 2022-09-07 at 1 16 35 PM](https://user-images.githubusercontent.com/25239743/188969064-68b46a30-ebaa-4023-b2ca-b1cb04909403.png)
