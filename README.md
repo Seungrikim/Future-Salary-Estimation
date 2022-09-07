@@ -48,6 +48,15 @@ We tried the gradient boosting model with hyperparameter tuning, and it runs thr
 
 ### Bootstrap and Conclusion
 ![Screen Shot 2022-09-07 at 1 03 12 PM](https://user-images.githubusercontent.com/25239743/188967243-de461a8d-7afb-49c1-b59e-5ba0acc23b98.png)
+
 (figure 13)
 
 Before choosing which model to base our bootstrap on, we compared the OSR-squared of each of the models in order to choose the one with the highest value. To be specific, the OSR-squared for each of the models were 0.6654 (Random Forest), 0.5383 (CART), 0.6696 (Bagging), 0.6558 (Boosting), and 0.5096 (Linear Regression). As it can be seen, the bagging model had the highest OSR-squared in comparison between models. Now to compare the performance between models, we decided to apply the bootstrapping method around 5000 times, in which we bootstrapped not only the difference of OSR-squared between one of the models and the bagging model, but also the metric OSR-squared of the bagging model. To begin with, the difference between the (Random Forest OSR-squared or Gradient Boosting OSR-squared) and the (Bagging OSR-squared)  had no statistically significant difference because they both contained 0 in their 95% confidence intervals (figure 14 & figure 15). On the other hand, the difference between the (CART OSR-squared  or Linear Regressions OSR-squared) and the (Bagging OSR-squared) seemed to have a statistically significant difference since they did not contain 0 in their confidence intervals (figure 16 & figure 17) . In addition, the difference in the OSR-squared of the two models were all in a negative value, so the Bagging OSR-squared was always higher than that of other models, so we chose the Bagging as the best model. Last but not least, we observed the variability of the metric OSR-squared for the Bagging model, and found that it’s 95-percent confidence interval is between 0.6 and 0.73(figure 18). Therefore, we can confidently recommend using our Bagging model to predict the future salaries of newly recruited players.
+
+
+## Work Cited
+- ESPN Internet Ventures. (n.d.). NBA Player Salaries - 2021-2022. ESPN. Retrieved December
+18, 2021, from http://www.espn.com/nba/salaries
+- “NBA Player Stats Index.” NBAstuffer, https://www.nbastuffer.com/player-stats/
+- “$100 in 2018 → 2021 | Inflation Calculator.” Official Inflation Data, Alioth Finance, 18 
+Dec. 2021, https://www.officialdata.org/us/inflation/2018?amount=100)
